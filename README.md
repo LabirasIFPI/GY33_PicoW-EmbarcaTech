@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto em C para utilizar o sensor de cor GY-33 (chip TCS34725) com a placa Raspberry Pi Pico. O projeto inclui um driver modular para facilitar a integração em seus próprios projetos.
 
+> ⚠️ **Observação:** Para detalhes maiores e aprofundados do uso do sensor, veja documentação com explicações e datasheet de referência [LABIRAS-Sensor de Cor GY-33](https://www.notion.so/labiras/Sensor-de-Cor-GY-33-22767aa6595380938884d40e893337d7).
+
+
+
 ## ✨ Funcionalidades
 
 -   Integração com o sensor de cor GY-33 (TCS34725).
